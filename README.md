@@ -1,5 +1,5 @@
 # Predicting Company Bankruptcy using Supervised & Unsupervised Learning Models
-Welcome to the Company Bankruptcy Repository! This repository is a AI Tools project that I've worked on with [Vincenzo Bean] (https://www.linkedin.com/in/vincenzobean/) during my sophomore year at the Milwaukee School of Engineering!
+Welcome to the Company Bankruptcy Repository! This repository is a AI Tools project that I've worked on with [Vincenzo Bean](https://www.linkedin.com/in/vincenzobean/) during my sophomore year at the Milwaukee School of Engineering!
 
 ## Project Description
 The aim of this project is to develop different supervised and unsuperivsed machine learning models that look at a company's financial data and predict if the company is heading towards bankruptcy or not. The models used are K-Nearest Neighbors, KMeans and Artificial Neural Networks.
