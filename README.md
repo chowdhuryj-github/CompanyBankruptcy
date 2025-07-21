@@ -1,3 +1,6 @@
+
+![Bucks](assets/banners.gif)
+
 # Predicting Company Bankruptcy using Supervised & Unsupervised Learning Models
 Welcome to the Company Bankruptcy Repository! This repository is a AI Tools project that I've worked on with [Vincenzo Bean](https://www.linkedin.com/in/vincenzobean/) during my sophomore year at the Milwaukee School of Engineering!
 
